@@ -9,6 +9,7 @@
 
 ![Python 3.13+](https://img.shields.io/badge/Python-3.13+-blue?style=flat-square) 
 ![CustomTkinter GUI](https://img.shields.io/badge/CustomTkinter-GUI-green?style=flat-square) 
+![Pillow](https://img.shields.io/badge/Pillow-Image--Processing-blueviolet?style=flat-square&logo=python&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-orange?style=flat-square) 
 ![Security Checked](https://img.shields.io/badge/Local-No--Dependencies-lightgrey?style=flat-square)
 
