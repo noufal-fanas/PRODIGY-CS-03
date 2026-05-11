@@ -1,4 +1,4 @@
-# 🛡️ PassCheck v4.4 | Real-time Identity Analyzer
+# 🛡️ PassCheck | Real-time Identity Analyzer
 
 **PRODIGY INFOTECH • CYBERSECURITY INTERNSHIP • TASK 03**
 
@@ -71,7 +71,7 @@ PassCheck is a real-time password strength analyzer built with Python and Custom
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/noufal-fanas/PRODIGY-CS-03.git]
+   git clone https://github.com/noufal-fanas/PRODIGY-CS-03.git
    ```
 2. **Install dependencies**
 
