@@ -70,7 +70,7 @@ PassCheck is a real-time password strength analyzer built with Python and Custom
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/noufal-nahas/passcheck.git](https://github.com/noufal-nahas/passcheck.git)
+   git clone [https://github.com/noufal-fanas/PRODIGY-CS-03.git]
    ```
 2. **Install dependencies**
 
